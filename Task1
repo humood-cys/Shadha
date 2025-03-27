@@ -1,0 +1,3 @@
+print("Hi honey")
+w = input(lan("You have to Enter your id:"))
+print(w)
